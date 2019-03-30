@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my website!"
+title: "Fabulous day in the canopy, isn't it."
+
 ---
 
-You're up and running!
+I am an entomologist with a passion for the environment.

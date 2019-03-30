@@ -1,0 +1,700 @@
+---
+title: "Kara Tyler-Julian CV"
+author: Kara Tyler-Julian
+date: "Mar. 30 2019"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+```{css,echo=FALSE}
+:root{
+  --sidebar-background-color: #bcee68 ;
+}
+
+body{
+  font-family: "serif",serif;
+  
+}
+
+h1, h2{
+  text-transform:capitalize;
+}
+```
+
+Aside
+================================================================================
+
+
+```{r, out.width="70%",fig.align="center",echo=FALSE}
+knitr::include_graphics("mugshot.jpg")
+```
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-compass"></i> Lehigh Acres, Florida, USA
+- <i class="fa fa-envelope"></i> [karatylerjulian@gmail.com](mailto:karatylerjulian@gmail.com)
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in plant and insect identification, pest management and Florida native habitats.  
+
+- **Expertise**: Florida native flora and fauna, Macrophotography, Microsoft Suite, SAS
+
+- **Familiarity**: R/R-Studio
+
+- **Languages**: Fluent at Speaking, reading and writting German. Speaking Spanish
+
+
+Main
+================================================================================
+
+Kara Tyler-Julian {#title}
+--------------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Florida
+
+M.Sc. in Entomology-Integrated Pest Management
+
+Gainesville, Florida
+
+2013
+
+**Thesis:** [A Novel Push-Pull Method for Management of Thrips on Peppers and Tomatoes](http://ufdc.ufl.edu/UFE0046378/00001)
+
+
+### New College of Florida
+
+B.A. in Biological Psycology
+
+Sarasota, Florida
+
+2009
+
+**Thesis:** Behavioral Lateralization in the Florida Manatee
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Field Validation Biologist
+
+Lee County Mosquito Control District
+
+Fort Myers, Florida
+
+Present - 2018
+
+- Responsible for the care and maintence of moquito colonies.
+- Perform scientific studies, collect and analyze data.
+
+### Mosquito Biologist I
+
+Lee County Mosquito Control District
+
+Fort Myers, Florida
+
+2018 - 2015
+
+- Responsible for inspection of sites for the presence of mosquito larva.
+- Evalute the need for moqsuito control measures and implementing treatments.
+
+### Biological Monitor-Independent
+
+Self-Employeed
+
+Ochopee, Florida
+
+2018
+
+::: concise
+- Provide technical oversight over field crews conducting seismic activities within Big Cypress National Preserve.
+- Minimize environmental impact and protect sensitive resources.
+- Survey for threatened and endangered species.
+- Record and report data.
+- Consult NPS personal and crew leaders. 
+:::
+
+### Butterfly Breeder
+
+Butterfly Estates
+
+Fort Myers, Florida
+
+2016 - 2015
+
+- Responsible for care and rearing of Florida native caterpillars.
+- Provide educational presentations to attendees.
+- Assist in the maintenance of plants on the conservancy grounds.
+
+### Crop Management Specialist/Entomologist
+
+Glades Crop Care, Inc.
+
+Lehigh Acres, Florida
+
+2015 - 2013
+
+::: concise
+- Identify agricultural arthropod pests and plant diseases for various crops throughout Southwest Florida.
+- Provide pesticide recommendations to growers.
+- Supervise and train staff.
+- Provide species identification of thrips.
+- Assist with grants.
+- Operate and maintain equipment.
+- Attend professioal conferences and education meetings.
+:::
+
+<br>
+
+### Research Assistant/Graduate Student
+
+University of Florida - North Florida Research and Education Center
+
+Quincy, Florida
+
+2013 - 2011
+
+- Work in the laboratory of Dr. Joseph Funderburk.  Process samples of thrips (identification and counts). 
+- Collect samples of thrips and other insects in the field. Manage the laboratory colony of *Frankliniella occidentalis*. 
+- Collect and analyze data. Compose manuscripts and present research via posters and oral presentations.
+
+### Tomato Research Assistant
+
+Enza Zade Research Inc. 
+
+Myakka City, Florida
+
+2011 - 2010
+
+- Manage every aspect of the tomato breeding program including, but not limited to the following:
+
+::: concise
+- Kept inventory of the seed vault.
+- Prepared seeds for shipping and sowing. 
+- Supervised labor crews.
+- Recorded data. 
+- Conducted germination experiments.
+- Collected pollen and made crosses.
+- Composed field maps. 
+- Developed new processing protocols. 
+- Measured and mixed chemicals for seed processing
+:::
+
+Internships and Volunteering {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Coccoloba Chapter of the Florida Native Plant Society 
+
+Treasurer
+
+Fort Myers, Florida
+
+2017 - 2016
+
+::: concise
+- Responsible for the financial account of the chapter, paying taxes, balancing the account and authorizing purchases. 
+- Volunteers 40 hours per month at the native plant sale and other chapter activities.
+:::
+
+<!--
+### Saraosta County Land Management
+
+Intern
+
+Sarasota, Florida
+
+2009 - 2007
+
+::: concise
+- Conducting Herpetology and Scrub Jay surveys. 
+- Participated in checking traps for animals.
+- Data collection
+:::
+
+### Mote Marine Aquarium and South Florida Musesum
+
+Animal trainer/research assistant, Manatee Trainer Teaching Assistant
+
+Sarasota/Bradenton, Florida
+
+2008 - 2007
+
+::: concise
+- Setting up research station and platform before training sessions.
+- Assisting in holding of the manatees and target training the manatees.
+- Recording the research training data.
+- Correcting behaviors. 
+- Preparing reinforcement and other research related activities.
+:::
+
+### Wildlife Inc, Education and Rehabilition Center
+
+Rehabilitator
+
+Anna Maria Island, Florida
+
+2008 - 2007 
+
+- Responsibilities include feeding animals, cleaning enclosures, tube feeding and medicating animals, assisting in rescues and all other medical care.
+
+### Sarasota Jungle Gardens
+
+Intern/Zookeeper
+
+Sarasota, Florida
+
+2007
+
+- Cleaned enclosures and fed the birds of prey and reptiles. 
+- Constructed and introduced enrichment for a black vulture and an agouti.
+- Worked as a pose attendant posing parrots on customers’ arms and fed and cleaned the cages of said parrots. 
+- Assisted in reptile and parrot shows.
+
+### Southwest Florida Museum Park Aquarium
+
+Safety Person and animal handler
+
+Sarasota, Florida
+
+2006
+--->
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Thirps Research: University of Florida, IFAS 
+
+`N/A`
+
+Quincy, Florida
+
+2014 - 2011
+
+- **Principal Investigator:** Dr. Joe Funderburk
+- **Supervisor:** Mrittunjai Srivastava
+- **Projects include:**
+- The Push Pull Method of thrips management on tomatoes. 
+- A Survey of Thrips in Leaf Litter, Survey of Thrips in Spanish Moss (*Tillandsia usnoides*).
+- Effects of Mycorrhizal Fungi on Thrips. 
+- New Host Record for *Caliothrips striatus*. 
+- Survey of Thrips on Kudzu (*Pueraria lobata*). 
+- Various pesticide trials.
+
+::: aside
+Work completed while pursing an M.Sc. of Entomology from University of Florida.
+:::
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Manatee Research
+
+`N/A`
+
+Sarasota, Florida
+
+2009 - 2006
+
+- **Principal Investigator:** Dr. Gordon Bauer
+- **Supervisor:** Joe Gaspard
+- **Projects include:**
+- Mantee chemical senses:Gustation and Olfaction.
+- Manatee Tactogram.
+- Manatee Audiogram. 
+- Manatee Sound Localization.
+
+::: aside
+Work completed while pursing an B.A. of Biological Pyscology from New College of Florida.
+:::
+
+### Behavioral Lateralization in the Florida Manatee
+
+`N/A`
+
+Crystal River, Florida 
+
+2008
+
+::: aside
+Data collection and analysis for B.A. thesis.
+:::
+
+
+Licenses & Certifications {data-icon=certificate}
+--------------------------------------------------------------------------------
+### Florida Commercial Pesticide Applicator License
+
+Florida Department of Agirculture and Consumer Services
+
+`N/A`
+
+`N/A`
+
+::: concise
+- Limited lawn and ornamental
+- Public health pest control
+- Agricultural row crop
+:::
+
+### Certified Crop Advisor
+
+American Society of Agronomy
+
+`N/A`
+
+`N/A`
+
+### PADI Open Water Diver
+
+Professional Association of Diving Instructors
+
+`N/A`
+  
+`N/A` <!--2009-->
+
+
+
+Honors & Awards {data-icon=trophy}
+--------------------------------------------------------------------------------
+
+### National Alliance of Independent Crop Consultants
+
+Graduate of the Young Leadership Program 
+
+`N/A`
+
+2015 - 2014
+
+### Entomological Society of America Conference Poster Competition 
+
+Second Place Award in the Graduate Student Poster Competition
+
+`N/A`
+
+2012
+
+### Florida Bright Futures Scholarship- Academic Scholar
+
+Full Tuition paid scholarship
+
+`N/A`
+
+2009 - 2005
+
+### New College of Florida Presidential Scholarship
+
+Highest Scholarship offered at New College
+
+`N/A`
+
+2009 - 2005
+
+<!--
+### German Club of Sun City Center Scholarship
+
+`N/A`
+
+`N/A`
+
+2007, 2006
+
+### CUR Psycholog mini-grant
+
+`N/A`
+
+`N/A`
+
+2009
+--->
+
+Publications {data-icon=file-alt}
+--------------------------------------------------------------------------------
+
+### Evaluation of a Push-Pull System for the Management of Frankliniella Species (Thysanoptera: Thripidae) in Tomato.
+
+Insects, 9(4):187. 
+
+`N/A`
+
+2018
+
+**Tyler-Julian, K.**, Funderburk, J., Srivastava, M., Olson, S., and Adkins, S.
+
+### Behavioral lateralization in the Florida manatee (*Trichechus manatus latirostris*),
+
+International Journal of Comparative Psychology. 29.
+
+`N/A`
+
+2016
+
+**Tyler-Julian, K.**, Chapman, K., Frances, C., and Bauer, G.B. 
+
+### Biotic resistance limits the invasiveness of the western flower thrips, *Frankliniella occidentalis* (Thysanoptera: Thripidae), in Florida.
+
+Insect Science, 23: 175–182.
+
+`N/A`
+
+`N/A`
+
+Funderburk, J., Frantz, G., Mellinger, C., **Tyler-Julian, K.** and Srivastava, M. 
+
+### Seasonal Abundance of Thysanoptera Species in Tillandsia usneoides (Poales: Bromeliaceae). 
+
+Florida Entomologist. 98(4):1179-1181
+
+`N/A`
+
+2015
+
+Demirozer, O., **Tyler-Julian, K.**, and Funderburk, J.
+
+### Population dynamics of *Frankliniella bispinosa* (Thysanoptera: Thripidae) and the predator *Orius insidiosus* (Hemiptera: Anthocoridae) as influenced by flower color of Lagerstroemia (Lythraceae). 
+
+Environmental Entomology. 44(3):668-79
+
+`N/A`
+
+`N/A`
+
+Funderburk, C., Funderburk, J., **Tyler-Julian, K.**, Srivastava, M., Knox, G., Andersen, P., and Adkins, S. 
+
+### Evaluation of a push-pull strategy for the management of *Frankliniella bispinosa* (Thysanoptera: Thripidae) in bell peppers.
+
+Environmental Entomology. 43:1364-1378
+
+`N/A`
+
+2014
+
+**Tyler-Julian, K.**, Funderburk, J., Frantz, G., and Mellinger, C. 
+
+### *Megalurothrips distalis* (Thysanoptera: Thripidae) breeding in the flowers of Kudzu in Florida.
+
+Florida Entomologist. 97: 835-840
+
+`N/A`
+
+`N/A`
+
+**Tyler-Julian, K.**, Funderburk, J., and Mound, L. 
+
+### Association of Pepper with Arbuscular Mycorrhizal Fungi Influences *Frankliniella occidentalis* (Thysanoptera: Thripidae) Preference and Performance. 
+
+Journal of Entomological Science. 49: 156-165.
+
+`N/A`
+
+`N/A`
+
+Demirozer, O., **Tyler-Julian, K.**, and Funderburk, J. 
+
+### A stimulo-deterrent method of thrips and Tomato spotted wilt virus management in tomatoes. 
+
+IV International Symposium on Tomato Diseases 1069. 251-268
+
+`N/A`
+
+2013
+
+**Tyler-Julian, K.**, Funderburk, J., Olson, S., Paret, M., Adkins, S., and Webster, C.
+
+### *Frankliniella occidentalis* (Pergande) integrated pest management programs for fruiting vegetables in Florida.
+
+Pest Management Science 68: 1537-1545.
+
+`N/A`
+
+2012
+
+Demirozer, O., **Tyler-Julian, K.**, Funderburk, J., Leppla, N., and Reitz, S. 
+
+<br>
+<br>
+
+### New host records for *Caliothrips striatus* (Thysanoptera: Thripidae) on Magnolia spp. with the description of the second instar.
+
+Florida Entomologist 95:485-488.
+
+`N/A`
+
+`N/A`
+
+**Tyler-Julian, K.A.**, Demirozer, O., Figlar, R., Skarlinsky, T., Funderburk, J., and Knox, G. 
+
+
+Presentations {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+## Oral Presentation
+
+### The Gardener’s Footprint: Environmental Consequences of Common Gardening Practices. 
+
+Manatee County Gardening Club meeting 
+
+Bradenton, Florida
+
+2018
+
+::: concise
+November 28, 2018 Meeting
+:::
+
+### Butterflies of Southwest Florida.
+
+Coccoloba chapter of the Florida Native Plant Society meeting 
+
+Fort Myers, Florida
+
+`N/A`
+
+::: concise
+November 2018 Meeting
+:::
+
+### The Food in Our Forests: Native edible plants of Lee county.
+
+Coccoloba chapter of the Florida Native Plant Society meeting 
+
+Fort Myers, Florida
+
+2017
+
+::: concise
+March 2017 Meeting
+:::
+
+### Using native plants in our landscapes.
+
+Food and Thought 
+
+Naples, Florida
+
+`N/A`
+
+### The Good, the Bad and the Bugly: Beneficial and plant-feeding insects in the home landscape.
+
+Coccoloba chapter of the Florida Native Plant Society meeting 
+
+Fort Myers, Florida
+
+2016
+
+::: concise
+September 2016 Meeting
+:::
+
+### Mosquitoes and Bromeliads. 
+
+Coccoloba chapter of the Florida Native Plant Society meeting 
+
+Fort Myers, Florida
+
+`N/A`
+
+::: concise
+June 2016 Meeting
+:::
+
+### How Growing Native Plants can Increase your Vegetable Production. 
+
+The Garden Club of Lehigh Acres.
+
+Lehigh Acres, Florida
+
+`N/A`
+
+::: concise
+Feburary 2016 Meeting
+:::
+
+### The benefits of native plants to food crops
+
+Coccoloba chapter of the Florida Native Plant Society meeting 
+
+Fort Myers, Florida
+
+2015
+
+::: concise
+October 2015 Meeting
+:::
+
+<br>
+<br>
+<br>
+<br>
+
+### A stimulo-deterrent method of thrips and Tomato spotted wilt virus management in tomatoes. 
+
+4th International Symposium on Tomato Diseases & 28th U.S. Annual Tomato Disease Workshop
+
+Orlando, Florida
+
+2013
+
+**Tyler-Julian, K.A.**, Funderburk, J.E., Olson, S., Reitz, S., Frantz, G., and Mellinger, C
+
+### Companion Plants and UV-Reflective Technologies. 
+
+In-service training presentation with the University of Florida.
+
+Jupiter, Florida
+
+2012
+
+
+## Poster
+
+### Management of thrips in tomatoes and peppers using cultural methods. 
+
+60<sup>th</sup> annual meeting of the Entomological Society of America
+
+Knoxville, Tennessee
+
+2012
+
+**Tyler-Julian, K.A.**, Funderburk, J.E., Olson, S., Frantz, G., and Mellinger, C. 
+
+### A novel push-pull method for managing thrips in bell peppers
+
+21<sup>st</seup> International Pepper Conference
+
+Naples, Florida
+
+`N/A`
+
+**Tyler-Julian, K.A,**, Frantz, G., Funderburk, J.E., Mellinger, C., and S.Reitz. A 
+
+### Behavioral lateralization in the Florida manatee (*Trichechus manatus latirostris*).
+
+19<sup>th</sup> Biennial Conference on the Biology of Marine Mammals
+
+Tampa, Florida
+
+2011
+
+**Tyler-Julian, K.A.**, Chapman, K., O’Brien, C. & Bauer, G.B.
+
+### Behavioral lateralization in the Florida manatee (*Trichechus manatus latirostris*).
+
+International Conference of Comparative Cognition 
+
+Melbourne, Florida
+
+2009
+
+**Tyler, K.A.**, Chapman, K., O’Brien, C. & Bauer, G.B. 
