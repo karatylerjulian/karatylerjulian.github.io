@@ -35,7 +35,7 @@ navbar:
       href: mailto:karatylerjulian@gmail.com                   # CHANGE HERE 
 output:
   html_document:
-    theme: readable
+    theme: sandstone
     highlight: textmate
     lib_dir: site_libs
     self_contained: no
