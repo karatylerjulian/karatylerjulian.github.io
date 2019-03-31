@@ -6,7 +6,7 @@ navbar:
   left:
     - text: Home
       icon: fa-home
-      href: index.htm
+      href: index.html
     - text: Food Forest
       icon: fab fa-pagelines
       href: foodforest.html
