@@ -7,15 +7,15 @@ navbar:
     - text: Home
       icon: fa-home
       href: index.htm
-    - text: Publications/Presentations
+    - text: Food Forest
+      icon: fab fa-pagelines
+      href: foodforest.html
+    - text: Publications
       icon: fa-file
-      menus:
-        - text: Publications
-          icon: fa-file-pdf-o
-          href: publications.html
-        - text: Presentations
-          icon: fas fa-chalkboard-teacher
-          href: presentations.html
+      href: publications.html
+    - text: Presentations
+      icon: fas fa-chalkboard-teacher
+      href: presentations.html
     - text: About
       icon: fa-list-ul 
       #href: about.html
@@ -35,5 +35,7 @@ navbar:
       href: mailto:karatylerjulian@gmail.com                   # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
+    theme: readable
     highlight: textmate
+    lib_dir: site_libs
+    self_contained: no

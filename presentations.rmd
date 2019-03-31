@@ -1,0 +1,13 @@
+---
+title: "Presentations"
+---
+
+## Work In Progress
+
+For now here is a copy of my [CV](https://karatylerjulian.github.io/static/resume/tylerjulian-cv-pd.html).
+
+```{r, out.width="50%",fig.align="center",echo=FALSE}
+knitr::include_graphics("https://farm6.staticflickr.com/5336/8787247284_4db77274c0_o.jpg")
+```
+
+***

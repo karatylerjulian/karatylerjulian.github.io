@@ -36,6 +36,7 @@ Contact Info {#contact}
 
 - <i class="fa fa-compass"></i> Lehigh Acres, Florida, USA
 - <i class="fa fa-envelope"></i> [karatylerjulian@gmail.com](mailto:karatylerjulian@gmail.com)
+- <i class="fa fa-chrome"></i> [KaraTylerJulian.github.io](https://KaraTylerJulian.github.io/)
 - For more information, please contact me via email.
 
 

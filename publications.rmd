@@ -1,0 +1,14 @@
+---
+title: "Publications"
+---
+
+## Work In Progress
+
+For now here is a copy of my [CV](https://karatylerjulian.github.io/static/resume/tylerjulian-cv-pd.html).
+
+```{r, out.width="50%",fig.align="center",echo=FALSE}
+knitr::include_graphics("https://farm2.staticflickr.com/1769/28689917207_780803d830_o.jpg")
+```
+
+
+***
