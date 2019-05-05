@@ -11,7 +11,7 @@ navbar:
       icon: fab fa-pagelines
       href: garden.html
     - text: Learn More!
-      icon: la-leanpub
+      icon: fa-leanpub
       href: links.html
     - text: Presentations
       icon: fas fa-chalkboard-teacher
