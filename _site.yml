@@ -7,12 +7,12 @@ navbar:
     - text: Home
       icon: fa-home
       href: index.html
-    - text: Food Forest
+    - text: The Garden
       icon: fab fa-pagelines
-      href: foodforest.html
-    - text: Publications
-      icon: fa-file
-      href: publications.html
+      href: garden.html
+    - text: Learn More!
+      icon: la-leanpub
+      href: links.html
     - text: Presentations
       icon: fas fa-chalkboard-teacher
       href: presentations.html
@@ -26,13 +26,20 @@ navbar:
       - text: CV
         icon: fa-file-pdf-o
         href: https://karatylerjulian.github.io/static/resume/tylerjulian-cv-pd.html #cv.html
+      - text: Publications
+        icon: fa-file
+        href: publications.html
+      - text: Photography
+        icon: fa-camera
+        href: photo.html
+      
     #- text: "Blog"
     #  icon: fa-rss
     #  href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
-  right:
-    - text: "Contact me"
-      icon: fa-envelope-o
-      href: mailto:karatylerjulian@gmail.com                   # CHANGE HERE 
+  #right:
+  #  - text: "Contact me"
+  #    icon: fa-envelope-o
+  #    href: mailto:karatylerjulian@gmail.com                   # CHANGE HERE 
 output:
   html_document:
     theme: readable

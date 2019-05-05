@@ -1,0 +1,14 @@
+---
+title: "The Forest through the trees"
+---
+
+## Work In Progress
+
+But for now here is a aerial image of the food forest.
+
+```{r, out.width="50%",fig.align="center",echo=FALSE}
+knitr::include_graphics("images/foodforest_oblique.jpg")
+```
+
+
+***
