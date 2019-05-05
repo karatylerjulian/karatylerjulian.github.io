@@ -22,13 +22,13 @@ Flash forward to now and when people come by to visit, they are astounded. We he
 <br>
 <div class = "row">
 <div class = "col-md-4">
-<center><img src="images/Garden/DSC_0042.JPG"></center>
+<center><img src="images/Garden/DSC_0042.JPG" width="95%"></center>
 </div>
 <div class = "col-md-4">
-<center><img src="images/Garden/DSC_0275.JPG"></center>
+<center><img src="images/Garden/DSC_0275.JPG" width="95%"></center>
 </div>
 <div class = "col-md-4">
-<center><img src="images/Garden/DSC_0043.JPG"></center>
+<center><img src="images/Garden/DSC_0043.JPG" width="95%"></center>
 </div>
 </div>
 <br>
@@ -38,10 +38,10 @@ We did all the work, planted all the plants and made all the trails, there are m
 <br>
 <div class = "row">
 <div class = "col-md-6">
-<center><img src="images/Garden/DSC_0039.JPG" width="70%" ></center>
+<center><img src="images/Garden/DSC_0039.JPG" width="65%" ></center>
 </div>
 <div class = "col-md-6">
-<center><img src="images/Garden/DSC_0582.JPG" width="70%" ></center>
+<center><img src="images/Garden/DSC_0582.JPG" width="65%" ></center>
 </div>
 </div>
 <br>
@@ -52,10 +52,11 @@ As time progresses our food forest/wildlife garden is ever changing. Trees grow 
 
 Something we always try to stress to people who feel overwhelmed by the scope of our garden is that there is no magical “green thumb”. Our goal is to help others see what they can achieve and to advise them as to how. As an entomologist and a soil scientist we have a lot of knowledge on how to deal with pest and soil issues, but the main explanation for our success is persistence and experimenting. We are constantly learning by experience and researching online to see what others have learned. Many, many plants have died in this yard, or been moved to a different spot, or killed. We have learned to do copious research before buying and planting a plant and have learned to plant the right plant in the right place with the right technique to ensure success. It took us five years just to finally perfect our initial planting technique, but we are happy to teach these techniques to others so they can get it right the first time!
 
-```{r, out.width="50%",fig.align="center",echo=FALSE}
-knitr::include_graphics("images/foodforest_oblique.jpg")
+```{r, out.width="80%",fig.align="center",echo=FALSE}
+knitr::include_graphics("images/foodforest_oblique2.jpg")
 ```
 
+<br>
 <a name="process"></a>
 
 ## How did we get here?
@@ -78,8 +79,19 @@ knitr::include_graphics("images/foodforest_oblique.jpg")
 Why should you think about getting rid of your lawn and planting trees, shrubs and native flowers instead? There are many benefits including: using less water and pesticides, saving on your energy bill by shading your house, providing habitat for wildlife, not spending money or time mowing, fewer emissions due to a lack of using gas-powered lawn equipment, having a more pleasing landscape, sequestering more carbon, and many more benefits. Check out the [“Learn More”](https://karatylerjulian.github.io/links.html){target="_blank"} section of this website for more information on “greening” your yard.
 
 We welcome visitors to see our property and provide cuttings and seeds to help get them started. Politicians won’t save the planet from climate change and development; we must do it ourselves and it all starts with a seed!
+
+<center><img src="images/Garden/DSC_0439.JPG" width="50%" hspace="1" vspace="1"></center>
+
 </div>
 <div class = "col-md-6">
 
+<center><img src="images/Garden/DSC_0545.JPG" width="50%" hspace="1" vspace="1"></center>
+<center><img src="images/Garden/DSC_0041.JPG" width="50%" hspace="1" vspace="1"></center>
+<center><img src="images/Garden/DSC_0274.JPG" width="50%" hspace="1" vspace="1"></center>
+<center><img src="images/Garden/DSC_0041.JPG" width="50%" hspace="1" vspace="1"></center>
+<center><img src="images/Garden/DSC_0436.JPG" width="50%" hspace="1" vspace="1"></center>
+<center><img src="images/Garden/DSC_0554.JPG" width="50%" hspace="1" vspace="1"></center>
+</div>
+</div>
 
 ***

@@ -32,7 +32,9 @@ navbar:
       - text: Photography
         icon: fa-camera
         href: photo.html
-      
+      - text: Contact Me
+        icon: fa-envelope
+        href: contactme.html
     #- text: "Blog"
     #  icon: fa-rss
     #  href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
