@@ -17,7 +17,7 @@ Kara Tyler-Julian is an entomologist with a passion for the environment. She has
 
 <div class = "col-md-6">
 
-<center><img src="images/about/DSC_0478.JPG" width="50%" align="middle"></center>
+<center><img src="images/about/DSC_0478.JPG" width="70%" align="middle"></center>
 
 
 <br>
