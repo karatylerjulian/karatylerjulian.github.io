@@ -2,12 +2,29 @@
 title: "Presentations"
 ---
 
-## Work In Progress
+<br>
+<div class = "row">
+<div class = "col-md-6">
+<center><img src="images/presentation/DSC_7522.JPG" vspace="1" hspace="1"></center>
+</div>
+<div class = "col-md-6">
+<center><img src="images/presentation/DSC_7666.JPG" vspace="1" hspace="1"></center>
+</div>
+</div>
+<br>
 
-For now here is a copy of my [CV](https://karatylerjulian.github.io/static/resume/tylerjulian-cv-pd.html).
 
-```{r, out.width="50%",fig.align="center",echo=FALSE}
-knitr::include_graphics("https://farm6.staticflickr.com/5336/8787247284_4db77274c0_o.jpg")
-```
+A few times each year I am honored to have the opportunity to give educational presentations to various clubs, societies, and non-profit groups. I have presented to all age groups from small children to advanced retirees! I am always happy to receive these invitations and they can be requests for a presentation on a specific topic or a general request for a talk about “bugs”. Send me an [e-mail](https://karatylerjulian.github.io/contactme.html){tartget="_blank"} if you are interested in having me present a topic for your group, school, or event. My presentations are in the form of powerpoint presentations, though I also enjoy leading nature walks where I point out edible wild plants or interesting insects. You can view my past presentation topics below, as well as some of the powerpoint presentations themselves. Please do not reuse my materials without asking permission first. [E-mail me](https://karatylerjulian.github.io/contactme.html){tartget="_blank"} today and we can discover a good presentation topic and format to best suit your group and theme!
+
+## Recurring presentation topics:
+ - The Gardener’s Footprint: Environmental Consequences of Common Gardening Practices. [*link to pdf*](https://karatylerjulian.github.io/static/presentations/GardenersFootprint.pdf){target="_blank"}
+ - The Versatile Uses of Native Plants in the Home Landscape. [*link to pdf*](https://karatylerjulian.github.io/static/presentations/VersatileNativePlants.pdf){target="_blank"}
+ - Butterflies of Southwest Florida. [*link to pdf*](https://karatylerjulian.github.io/static/presentations/ButterfliesBasics.pdf){target="_blank"}
+ - The Food in Our Forests: Native edible plants of Lee county. [*link to pdf*](https://karatylerjulian.github.io/static/presentations/The food in our forests.pdf){target="_blank"}
+ - Using native plants in our landscapes. 
+ - The Good, the Bad and the Bugly: Beneficial and plant-feeding insects in the home landscape. [*link to pdf*](https://karatylerjulian.github.io/static/presentations/BugTalk.pdf){target="_blank"}
+ - Mosquitoes and Bromeliads.
+ - How Growing Native Plants can Increase your Vegetable Production. 
+
 
 ***

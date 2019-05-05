@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Learn more</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 66px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h2 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h3 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h4 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h5 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h6 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Kara Tyler-Julian</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="garden.html">
+    <span class="fab fa fab fa-pagelines"></span>
+     
+    The Garden
+  </a>
+</li>
+<li>
+  <a href="links.html">
+    <span class="la la-leanpub"></span>
+     
+    Learn More!
+  </a>
+</li>
+<li>
+  <a href="presentations.html">
+    <span class="fas fa fas fa-chalkboard-teacher"></span>
+     
+    Presentations
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    <span class="fa fa-list-ul"></span>
+     
+    About
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="about.html">
+        <span class="fa fa-user-o"></span>
+         
+        About
+      </a>
+    </li>
+    <li>
+      <a href="https://karatylerjulian.github.io/static/resume/tylerjulian-cv-pd.html">
+        <span class="fa fa-file-pdf-o"></span>
+         
+        CV
+      </a>
+    </li>
+    <li>
+      <a href="publications.html">
+        <span class="fa fa-file"></span>
+         
+        Publications
+      </a>
+    </li>
+    <li>
+      <a href="photo.html">
+        <span class="fa fa-camera"></span>
+         
+        Photography
+      </a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Learn more</h1>
+
+</div>
+
+
+<p>Want to learn more about different plants, insects, wildlife, or transitioning your yard? Check out the many links below! I could reinvent the wheel and write about all of this myself, but these people and groups below have already done a great job of writing about these topics. Please visit their sites and explore the knowledge:</p>
+<div id="reasons-to-transform-your-yard" class="section level2">
+<h2>Reasons to transform your yard:</h2>
+<ul>
+<li><a href="https://www.audubon.org/news/plant-trees-turn-your-yard-bird-oasis-and-carbon-sponge" target="_blank">Carbon Sponges</a></li>
+<li><a href="https://www.audubon.org/news/yards-non-native-plants-create-food-deserts-bugs-and-birds" target="_blank">Prevent wildlife food deserts</a></li>
+<li><a href="https://www.audubon.org/news/your-yard-stealthy-fossil-fuel-guzzler-give-it-climate-makeover" target="_blank">Climate friendly makeovers</a></li>
+<li><a href="https://www.smithsonianmag.com/science-nature/another-downside-to-your-classic-green-lawn-22716743/" target="_blank">Downside to green lawns</a></li>
+<li><a href="https://permaculturenews.org/2016/06/03/why-our-lawns-are-bad-for-the-environment-and-how-to-change-them-for-the-better/" target="_blank">Change the lawn</a></li>
+</ul>
+</div>
+<div id="information-about-using-florida-native-plants" class="section level2">
+<h2>Information about using Florida native plants:</h2>
+<ul>
+<li><a href="https://www.fnps.org/natives/natives" target="_blank">Florida Native Plant Society</a></li>
+<li><a href="https://www.plantrealflorida.org/" target="_blank">Plant Real Florida</a></li>
+<li><a href="https://www.floridanativenurseries.org/plants/" target="_blank">Florida native nurseries</a></li>
+<li><a href="http://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/native-plants.html" target="_blank">UF IFAS</a></li>
+<li><a href="http://floridayards.org/fyplants/" target="_blank">Florida Yards</a></li>
+</ul>
+</div>
+<div id="gardening-for-insects" class="section level2">
+<h2>Gardening for insects:</h2>
+<ul>
+<li><a href="https://xerces.org/pollinator-conservation/plant-lists/pollinator-plants-florida/" target="_blank">Pollinators Plans</a></li>
+<li><a href="https://flawildflowers.org/attracting-bees/" target="_blank">Bees</a></li>
+<li><a href="https://www.amentsoc.org/insects/insects-and-man/gardening-for-insects.html" target="_blank">Gardening for insects</a></li>
+</ul>
+</div>
+<div id="florida-native-bees" class="section level2">
+<h2>Florida native bees:</h2>
+<ul>
+<li><a href="https://conference.ifas.ufl.edu/gardener12/Onsite%20Presentations/Monday/0345%20Concurrent%20Session%203/D-3/0345%20M%20Peterson.pdf" target="_blank">Florida Native Bees</a> (<em>this is a pdf presentation</em>)</li>
+<li><a href="http://www.floridasnativebees.com/the-bees.html" target="_blank">The Bees</a></li>
+</ul>
+</div>
+<div id="creating-a-wildlife-habitat" class="section level2">
+<h2>Creating a wildlife habitat:</h2>
+<ul>
+<li><a href="https://www.nwf.org/garden-for-wildlife/create" target="_blank">Garden for Wildlife</a></li>
+<li><a href="http://www.bringingnaturehome.net/" target="_blank">Bringing Nature Home</a></li>
+<li><a href="https://thebacktenfeetwithsuescott.com/" target="_blank">Back 10 Feet</a></li>
+<li><a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/newsroom/features/?cid=nrcs143_023553" target="_blank"><em>In Your Backyard</em></a></li>
+</ul>
+</div>
+<div id="permaculture-and-food-forests" class="section level2">
+<h2>Permaculture and food forests:</h2>
+<ul>
+<li><a href="https://www.echonet.org/take-a-tour" target="_blank">ECHO</a></li>
+<li><a href="http://www.thesurvivalgardener.com/" target="_blank">The Survival Gardener</a></li>
+<li><a href="https://permaculturenews.org/2011/10/21/why-food-forests/" target="_blank">Why food forests</a></li>
+<li><a href="https://www.abc.net.au/gardening/factsheets/permaculture/9423834?fbclid=IwAR3eqLbKIQjoZ3njAc50nfvFbAc92VwvM5TGpklLDi79xXnhXQsRErlHSGI" target="_blank">Gardening Australia</a></li>
+</ul>
+<p>If you find any broken links feel me to <a href="mailto:karatylejulian@gmail.com" target="_blank">email me</a> or visit my <a href="https://karatylerjulian.github.io/contactme" target="_blank">Contact Me</a> page.</p>
+<hr />
+<p><strong><em>These links are provided for additional resources to help you transform your garden and motivate you to make a greener world by no means is this a personal endorsement of the organization, authors or publishers. Reference <span class="math inline">\(\neq\)</span> endorsement.</em></strong></p>
+<hr />
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
