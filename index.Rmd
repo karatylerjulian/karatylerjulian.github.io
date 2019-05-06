@@ -11,7 +11,7 @@ output:
 -->
 
 <br>
-If you are looking for information about Kara Tyler-Julian and her freelance educational work, you have come to the right place. Have a look around and send me a message if you wish. Are you looking to learn about native plants, food forests, insects, or a combination of those topics? Check out my [presentation](https://karatylerjulian.github.io/presentations.html){target="_blank"} page to see the topics I am knowledgeable in and [contact me](https://karatylerjulian.github.io/contactme.html){target="_blank"} for more information.
+If you are looking for information about Kara Tyler-Julian and her freelance educational work, you have come to the right place. Have a look around and send me a message if you wish. Are you looking to learn about native plants, food forests, insects, or a combination of those topics? Check out my [presentation](https://www.theinsectgardener.com/presentations.html){target="_blank"} page to see the topics I am knowledgeable in and [contact me](https://www.theinsectgardener.com/contactme.html){target="_blank"} for more information.
 
 Thank you for visiting!
 
