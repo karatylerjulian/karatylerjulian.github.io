@@ -35,13 +35,9 @@ navbar:
       - text: Contact Me
         icon: fa-envelope
         href: contactme.html
-    #- text: "Blog"
-    #  icon: fa-rss
-    #  href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
-  #right:
-  #  - text: "Contact me"
-  #    icon: fa-envelope-o
-  #    href: mailto:karatylerjulian@gmail.com                   # CHANGE HERE 
+  right:
+    - icon: fa-facebook-square
+      href: https://www.facebook.com/InsectGardener/ 
 output:
   html_document:
     theme: readable
